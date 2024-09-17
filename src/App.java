@@ -15,6 +15,9 @@ public class App {
         frame.setResizable(false);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // Fecha o aplicativo ao fechar a janela
 
+
+
+
         // Adiciona o painel do jogo à janela
         SnakeGame snakeGame = new SnakeGame(boardWidth, boardHeight);  // Inicializa o jogo
         frame.add(snakeGame);
