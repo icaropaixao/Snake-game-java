@@ -1,6 +1,9 @@
-# Jogo da Cobrinha (Snake) em Java
+# Jogo da Cobrinha
 
 Bem-vindo ao repositório do Jogo da Cobrinha! Este é um simples jogo da cobrinha desenvolvido em Java. O objetivo do jogo é controlar a cobra para comer a comida e crescer, evitando colidir com as paredes e com seu próprio corpo.
+
+### 
+![alt tag](https://lh3.googleusercontent.com/H-pMsN8bvDzxGFXQsMNdcxIhqfxzyvtQaqw_q7ElnT-l9D77YD6GHzidCCuVOr4cMKuWbbzN5shxCzS8djySICaXCg=s1280-w1280-h800)
 
 ## Funcionalidades
 
